@@ -1,0 +1,20 @@
+C#.NET Programmer
+ตำแหน่ง ซีชาร์ปจุดเน็ต โปรแกรมเมอร์
+Aware Outsourcing Services Corporation (Thailand) Ltd. (AOS)
+
+Responsibilities
+
+> Translate application storyboards and use cases into functional applications
+> Design, build, and maintain efficient, reusable, and reliable C# .NET code, MVC
+> Create new applications for various types of businesses
+> Ensure the best possible performance, quality, and responsiveness of applications Identify bottlenecks and bugs, and devise solutions to these problems
+> Provide technical support for web, desktop or mobile applications
+> Help maintain code quality, organization, and automatization
+
+Requirements
+
+> Bachelor’s or Master's Degree in Computer Science, Computer Engineering, IT or related fields
+> At least 2 years’ working experience in software development
+> Good command in C# .NET, ASP.NET, MVC Framework
+> Knowledge in Front-end technology such as HTML, CSS, JavaScript, JQuery
+> Ambition to work in Backend development
