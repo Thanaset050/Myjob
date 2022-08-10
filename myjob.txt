@@ -1,6 +1,7 @@
 C#.NET Programmer
 ซีชาร์ปจุดเน็ต โปรแกรมเมอร์
 Aware Outsourcing Services Corporation (Thailand) Ltd. (AOS)
+อแวร์ เอาท์ซอร์ส เซอร์วิสเซส คอร์ปอเรชั่น (ประเทศไทย) จำกัด (AOS)
 
 Responsibilities
 หน้าที่รับผิดชอบ
@@ -8,7 +9,7 @@ Responsibilities
 > Translate application storyboards and use cases into functional applications
 > แปลสตอรี่บอร์ดของแอปพลิเคชันและกรณีการใช้งานเป็นแอปพลิเคชันที่ใช้งานได้จริง
 > Design, build, and maintain efficient, reusable, and reliable C# .NET code, MVC
-> ออกแบบ สร้าง และบำรุงรักษาโค้ด C# .NET ที่มีประสิทธิภาพ ใช้ซ้ำได้ และเชื่อถือได้, MVC
+> ออกแบบ, สร้าง, และบำรุงรักษาโค้ด C# .NET ที่มีประสิทธิภาพ ใช้ซ้ำได้ และเชื่อถือได้, MVC
 > Create new applications for various types of businesses
 > สร้างแอพพลิเคชั่นใหม่สำหรับธุรกิจประเภทต่างๆ
 
